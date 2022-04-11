@@ -1,8 +1,7 @@
 ### Hello World 👋
 [![JayUpadhyayCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayUpadhyayCS)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
+
 <!--END_SECTION:waka-->
 
 <!--
