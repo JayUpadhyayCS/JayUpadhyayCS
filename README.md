@@ -11,8 +11,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 #### Github Stats
 
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" width="500px" height="500px" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayupadhyaycs&theme=tokyonight&" alt="jayupadhyaycs" width="500px" height="500px"/>
+<p  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" width="500px" height="500px" /> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayupadhyaycs&theme=tokyonight&" alt="jayupadhyaycs" width="500px" height="500px"/>
 </p>
 
 
