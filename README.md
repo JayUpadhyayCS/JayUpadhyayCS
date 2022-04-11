@@ -1,5 +1,6 @@
 ### Hello World 👋
 
+#### Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
@@ -7,6 +8,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+#### Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en" alt="jayupadhyaycs" /></p>
