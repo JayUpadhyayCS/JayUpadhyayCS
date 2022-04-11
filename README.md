@@ -1,9 +1,9 @@
 ### Hello World 👋
-[![JayUpadhyayCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayUpadhyayCS)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&show_icons=true&locale=en&layout=tokyonight" alt="jayupadhyaycs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayupadhyaycs&show_icons=true&locale=en" alt="jayupadhyaycs" /></p>
 
