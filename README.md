@@ -18,13 +18,13 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 #### Github Stats
-<div class="row"> 
-<p class="column"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" /></p>
 
-<p class="column">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en" alt="jayupadhyaycs" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="jayupadhyaycs" /></p>
 
-<p class="column"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jayupadhyaycs&theme=tokyonight&" alt="jayupadhyaycs" /></p>
-  <\div>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayupadhyaycs&theme=tokyonight&show_icons=true&locale=en" alt="jayupadhyaycs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayupadhyaycs&theme=tokyonight&" alt="jayupadhyaycs" /></p>
+
 <!--
 **JayUpadhyayCS/JayUpadhyayCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
