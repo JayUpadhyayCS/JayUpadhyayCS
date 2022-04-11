@@ -1,14 +1,6 @@
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-
 ### Hello World 👋
-
+#### About me
+TBD
 #### Coding Stats
 <!--START_SECTION:waka-->
 
