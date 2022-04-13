@@ -5,12 +5,9 @@ TBD
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 mins
+Total Time: 5 mins
 
-HTML     4 mins          ███████████████████████░░   92.58 %
-INI      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-CSS      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    7 hrs 35 mins   ████████████████████████▓   98.78 %
 ```
 
 <!--END_SECTION:waka-->
