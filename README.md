@@ -5,8 +5,6 @@ TBD
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 mins
-
 Other    7 hrs 35 mins   ████████████████████████▓   98.78 %
 ```
 
