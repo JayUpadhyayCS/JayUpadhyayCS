@@ -5,7 +5,7 @@ TBD
 <!--START_SECTION:waka-->
 
 ```text
-Other    11 hrs 42 mins  ████████████████████████▓   98.19 %
+
 ```
 
 <!--END_SECTION:waka-->
