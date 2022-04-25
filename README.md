@@ -3,7 +3,7 @@
 TBD
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-272-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,7 +37,7 @@ Python                   1 hr 25 mins        ███████████�
 ```
 
 
- Last Updated on 24/04/2022 00:42:01 UTC
+ Last Updated on 25/04/2022 00:40:14 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
