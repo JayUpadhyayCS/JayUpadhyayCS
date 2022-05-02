@@ -3,7 +3,7 @@
 TBD
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm an Early 🐤** 
 
@@ -39,7 +39,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/05/2022 00:56:38 UTC
+ Last Updated on 02/05/2022 00:45:56 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
