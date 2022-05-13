@@ -3,7 +3,7 @@
 TBD
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -39,7 +39,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/05/2022 00:47:49 UTC
+ Last Updated on 13/05/2022 00:55:45 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
