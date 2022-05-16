@@ -5,7 +5,7 @@ TBD
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -39,7 +39,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/05/2022 00:57:49 UTC
+ Last Updated on 16/05/2022 00:48:11 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
