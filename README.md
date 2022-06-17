@@ -34,12 +34,12 @@ Sunday       53 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/06/2022 00:49:31 UTC
+ Last Updated on 17/06/2022 00:44:12 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
