@@ -5,7 +5,7 @@ TBD
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -40,7 +40,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/10/2022 01:12:43 UTC
+ Last Updated on 13/10/2022 01:05:46 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
