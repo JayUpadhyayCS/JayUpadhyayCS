@@ -34,12 +34,12 @@ Sunday       70 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27/12/2022 00:42:13 UTC
+ Last Updated on 28/12/2022 00:41:22 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
