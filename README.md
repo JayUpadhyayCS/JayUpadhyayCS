@@ -34,13 +34,12 @@ Sunday       80 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   26 mins             ████████████████████████░   99.31% 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/01/2023 00:46:21 UTC
+ Last Updated on 23/01/2023 00:42:09 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
