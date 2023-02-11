@@ -3,7 +3,7 @@
 TBD
 #### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,13 +34,13 @@ Sunday          85 commits       ████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 9 mins       ██████████████████████░░░   91.25 % 
-Kotlin                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Python                   14 hrs 7 mins       ███████████████████████░░   93.37 % 
+Kotlin                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 ```
 
 
- Last Updated on 10/02/2023 00:47:42 UTC
+ Last Updated on 11/02/2023 00:40:11 UTC
 <!--END_SECTION:waka-->
 #### Github Stats
 
