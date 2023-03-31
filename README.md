@@ -5,9 +5,7 @@ TBD
 <!--START_SECTION:waka-->
 
 ```text
-Scala     1 hr 3 mins     █████████████████████████   99.99 %
-XML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
