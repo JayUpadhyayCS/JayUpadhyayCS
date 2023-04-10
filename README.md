@@ -5,7 +5,9 @@ TBD
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#     23 mins         ████████████████████████▓   98.97 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
